@@ -15,6 +15,9 @@
 ## Содержимое проекта
 
 Папка **draconis_original**: оригинальные файлы шрифта
+
 **Draconis_cyr.fcp**: файл проекта FontCreator
+
 **DraconisCyr-Regular.ttf**: обычная (не жирная и не курсивная) версия шрифта
+
 **README.md**: этот файл
